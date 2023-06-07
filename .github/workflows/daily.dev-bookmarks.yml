@@ -14,4 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "daily.dev BOOKMARKS"
-          feed_list: "https://api.daily.dev/rss/b/ef8f8036-23bc-427f-860e-2fb7d3987b9e"
+          feed_list: "https://api.daily.dev/rss/b/aeac6c91-254b-4943-ad63-23adcc2fa210"
