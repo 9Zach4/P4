@@ -1,1 +1,17 @@
+name: daily.dev Bookmarks
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
 
+jobs:
+  daily-dev-bookmarks:
+    name: Update this repo's README with latest bookmarks from daily.dev
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "daily.dev BOOKMARKS"
+          feed_list: "https://api.daily.dev/rss/b/ef8f8036-23bc-427f-860e-2fb7d3987b9e"
