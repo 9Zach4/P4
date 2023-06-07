@@ -19,6 +19,8 @@
 - [Building a Restful CRUD API with Node JS, Express, and MongoDB](https://app.daily.dev/posts/SUyMJLQHw)  
 ## Veille Technologique Global
 
+
+#  daily.dev BOOKMARKS 
 <!--  daily.dev BOOKMARKS:START -->
 <!--  daily.dev BOOKMARKS:END -->
-daily.dev BOOKMARKS 
+
