@@ -20,7 +20,6 @@
 ## Veille Technologique Global
 
 
-#  daily.dev BOOKMARKS 
-<!--  daily.dev BOOKMARKS:START -->
-<!--  daily.dev BOOKMARKS:END -->
+<!-- daily.dev BOOKMARKS:START -->
+<!-- daily.dev BOOKMARKS:END -->
 
