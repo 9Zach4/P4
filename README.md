@@ -1,8 +1,6 @@
 # Bookmark de veille pour le projets 4 Openclassroom : "Planifiez le développement du site de votre client"
 
 
-
-<!--  daily.dev BOOKMARKS:START -->
 ## Veille Front-end
 - [TailwindCSS vs. UnoCSS](https://app.daily.dev/posts/A0VG4LfAl)  
 - [How to Authenticate Your React App with Passport.js](https://app.daily.dev/posts/MzWic0AXC)  
@@ -21,5 +19,5 @@
 - [Building a Restful CRUD API with Node JS, Express, and MongoDB](https://app.daily.dev/posts/SUyMJLQHw)  
 ## Veille Technologique Global
 
-
+<!--  daily.dev BOOKMARKS:START -->
 <!--  daily.dev BOOKMARKS:END -->
